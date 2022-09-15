@@ -8,6 +8,7 @@ public class HelloBorderLayout extends JFrame {
 
 	HelloBorderLayout(){
 		
+		//변경점 저장
 		JPanel p = new JPanel();
 		add(p);
 		
